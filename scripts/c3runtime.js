@@ -2996,8 +2996,10 @@ const map=new WeakMap;self.IBulletBehaviorInstance=class IBulletBehaviorInstance
 		C3.Plugins.Button.Cnds.OnClicked,
 		C3.Plugins.Keyboard.Cnds.IsKeyDown,
 		C3.Plugins.System.Acts.SetVar,
+		C3.Plugins.Touch.Cnds.OnHoldGestureObject,
 		C3.Plugins.Touch.Cnds.OnTapGestureObject,
-		C3.Plugins.System.Acts.GoToLayout
+		C3.Plugins.System.Acts.GoToLayout,
+		C3.Plugins.Touch.Cnds.IsTouchingObject
 		];
 	};
 	self.C3_JsPropNameTable = [
