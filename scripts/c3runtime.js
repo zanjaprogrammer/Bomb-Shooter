@@ -3021,6 +3021,8 @@ const map=new WeakMap;self.IBulletBehaviorInstance=class IBulletBehaviorInstance
 		{Button: 0},
 		{Audio: 0},
 		{Sprite4: 0},
+		{versi: 0},
+		{Text2: 0},
 		{gameOver: 0},
 		{music: 0}
 	];
