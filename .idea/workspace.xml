@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d253737-37ed-4a0b-971a-15b3806ac4f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offline.json" beforeDir="false" afterPath="$PROJECT_DIR$/offline.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/c3runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/c3runtime.js" afterDir="false" />
-    </list>
+    <list default="true" id="7d253737-37ed-4a0b-971a-15b3806ac4f9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +50,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612774440684</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Game nembak bomb kalo enggak mati">
+      <created>1612775261068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612775261069</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Game nembak bomb kalo enggak mati">
+      <created>1612775420588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612775420588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Game nembak bomb kalo enggak mati">
+      <created>1612775570973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612775570973</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,9 +96,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612766972287" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612774443642">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612775572261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612774443642" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612775572261" />
   </component>
 </project>
